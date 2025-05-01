@@ -1,5 +1,5 @@
-# MESI_directory
-A directory-based MESI protocol cache coherence system.
+# MESI_Directory_Cache-Coherence
+A directory-based MESI protocol cache coherence multicore system.
 
 ## Configuration
 
